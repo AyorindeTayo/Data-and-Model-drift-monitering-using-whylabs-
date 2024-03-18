@@ -1,4 +1,4 @@
-# Data-and-Model-drift-monitering-using-whylabs-
+# Data-and-Model-drift-monitoring-using-whylabs-
 Data drift, Data Quality, and concept drift monitoring 
 
 
